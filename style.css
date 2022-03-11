@@ -1,0 +1,37 @@
+body {
+
+}
+
+.container-1{
+    display: flex;
+    background-color: maroon;
+    text-align: center;
+    color: white;
+    width: 600px;
+    height:25px;
+    padding:5px
+}
+.container-2{
+    display:flex;
+    background-color: rgb(247, 226, 157);
+    text-align: center;
+    color: white;
+    width: 600px;
+    height:150px;
+    padding:5px
+}
+img{
+    position:absolute;
+    width:325px;
+    height:175px;
+}
+
+.container-3{
+    display: flex;
+    background-color: maroon;
+    text-align: center;
+    color: white;
+    width: 600px;
+    height:35px;
+    
+}
